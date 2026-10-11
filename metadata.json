@@ -1,0 +1,6 @@
+{
+  "name": "Meditación Gnóstica",
+  "description": "Aplicación minimalista de meditación gnóstica a través de audios dirigidos con reproducción continua, descarga de audios y funcionamiento sin conexión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

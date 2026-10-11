@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#FBF9F5"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" stroke="#D6CEBE" stroke-width="4"/>
+  <!-- Sacred Sun / Eight-Pointed Gnosis Star & Lotus -->
+  <circle cx="256" cy="240" r="116" fill="#78350F" fill-opacity="0.08"/>
+  <circle cx="256" cy="240" r="84" stroke="#78350F" stroke-width="6"/>
+  <path d="M256 124L276 204L356 224L276 244L256 324L236 244L156 224L236 204L256 124Z" fill="#78350F"/>
+  <circle cx="256" cy="224" r="16" fill="#FBF9F5"/>
+  <!-- Lotus Base -->
+  <path d="M168 356C196 382 226 392 256 392C286 392 316 382 344 356" stroke="#9A3412" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 384C216 400 236 406 256 406C276 406 296 400 316 384" stroke="#78350F" stroke-width="6" stroke-linecap="round"/>
+</svg>
